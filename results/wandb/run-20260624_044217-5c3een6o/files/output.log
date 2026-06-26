@@ -1,0 +1,415 @@
+Starting full 38-class training...
+Train batches: 1358
+Val batches:   170
+------------------------------------------------------------
+  Epoch 1 | Batch 100/1358 | Loss: 1.4516 | Running Acc: 60.09%
+  Epoch 1 | Batch 200/1358 | Loss: 1.1103 | Running Acc: 71.95%
+  Epoch 1 | Batch 300/1358 | Loss: 1.0541 | Running Acc: 77.27%
+  Epoch 1 | Batch 400/1358 | Loss: 1.0590 | Running Acc: 80.40%
+  Epoch 1 | Batch 500/1358 | Loss: 0.9414 | Running Acc: 82.47%
+  Epoch 1 | Batch 600/1358 | Loss: 0.9924 | Running Acc: 83.86%
+  Epoch 1 | Batch 700/1358 | Loss: 0.8847 | Running Acc: 85.21%
+  Epoch 1 | Batch 800/1358 | Loss: 1.0885 | Running Acc: 86.21%
+  Epoch 1 | Batch 900/1358 | Loss: 0.9949 | Running Acc: 86.94%
+  Epoch 1 | Batch 1000/1358 | Loss: 0.8568 | Running Acc: 87.63%
+  Epoch 1 | Batch 1100/1358 | Loss: 0.8464 | Running Acc: 88.24%
+  Epoch 1 | Batch 1200/1358 | Loss: 0.8880 | Running Acc: 88.74%
+  Epoch 1 | Batch 1300/1358 | Loss: 0.8919 | Running Acc: 89.21%
+
+Epoch 1/20
+  Train Loss: 1.0627 | Train Acc: 89.49%
+  Val Loss:   0.8243 | Val Acc:   96.72%
+  LR: 0.001000
+  Checkpoint saved (epoch 1)
+  ✓ Best model saved! Val Acc: 96.72%
+------------------------------------------------------------
+  Epoch 2 | Batch 100/1358 | Loss: 0.8612 | Running Acc: 96.12%
+  Epoch 2 | Batch 200/1358 | Loss: 0.7860 | Running Acc: 96.23%
+  Epoch 2 | Batch 300/1358 | Loss: 0.8414 | Running Acc: 96.38%
+  Epoch 2 | Batch 400/1358 | Loss: 0.7611 | Running Acc: 96.39%
+  Epoch 2 | Batch 500/1358 | Loss: 0.8465 | Running Acc: 96.34%
+  Epoch 2 | Batch 600/1358 | Loss: 0.8215 | Running Acc: 96.26%
+  Epoch 2 | Batch 700/1358 | Loss: 0.9682 | Running Acc: 96.27%
+  Epoch 2 | Batch 800/1358 | Loss: 0.8092 | Running Acc: 96.30%
+  Epoch 2 | Batch 900/1358 | Loss: 0.7939 | Running Acc: 96.32%
+  Epoch 2 | Batch 1000/1358 | Loss: 0.8090 | Running Acc: 96.37%
+  Epoch 2 | Batch 1100/1358 | Loss: 0.8034 | Running Acc: 96.34%
+  Epoch 2 | Batch 1200/1358 | Loss: 0.7640 | Running Acc: 96.32%
+  Epoch 2 | Batch 1300/1358 | Loss: 0.8597 | Running Acc: 96.35%
+
+Epoch 2/20
+  Train Loss: 0.8510 | Train Acc: 96.37%
+  Val Loss:   0.7823 | Val Acc:   98.01%
+  LR: 0.000994
+  Checkpoint saved (epoch 2)
+  ✓ Best model saved! Val Acc: 98.01%
+------------------------------------------------------------
+  Epoch 3 | Batch 100/1358 | Loss: 0.9136 | Running Acc: 96.69%
+  Epoch 3 | Batch 200/1358 | Loss: 0.9585 | Running Acc: 97.03%
+  Epoch 3 | Batch 300/1358 | Loss: 0.8019 | Running Acc: 97.42%
+  Epoch 3 | Batch 400/1358 | Loss: 0.7377 | Running Acc: 97.38%
+  Epoch 3 | Batch 500/1358 | Loss: 0.8277 | Running Acc: 97.50%
+  Epoch 3 | Batch 600/1358 | Loss: 0.7911 | Running Acc: 97.54%
+  Epoch 3 | Batch 700/1358 | Loss: 0.8656 | Running Acc: 97.46%
+  Epoch 3 | Batch 800/1358 | Loss: 0.7596 | Running Acc: 97.41%
+  Epoch 3 | Batch 900/1358 | Loss: 0.8029 | Running Acc: 97.41%
+  Epoch 3 | Batch 1000/1358 | Loss: 0.8038 | Running Acc: 97.37%
+  Epoch 3 | Batch 1100/1358 | Loss: 0.9845 | Running Acc: 97.35%
+  Epoch 3 | Batch 1200/1358 | Loss: 0.7939 | Running Acc: 97.35%
+  Epoch 3 | Batch 1300/1358 | Loss: 0.7836 | Running Acc: 97.42%
+
+Epoch 3/20
+  Train Loss: 0.8136 | Train Acc: 97.42%
+  Val Loss:   0.7620 | Val Acc:   98.10%
+  LR: 0.000976
+  Checkpoint saved (epoch 3)
+  ✓ Best model saved! Val Acc: 98.10%
+------------------------------------------------------------
+  Epoch 4 | Batch 100/1358 | Loss: 0.8022 | Running Acc: 97.88%
+  Epoch 4 | Batch 200/1358 | Loss: 0.7631 | Running Acc: 98.08%
+  Epoch 4 | Batch 300/1358 | Loss: 0.7711 | Running Acc: 98.18%
+  Epoch 4 | Batch 400/1358 | Loss: 0.7421 | Running Acc: 98.24%
+  Epoch 4 | Batch 500/1358 | Loss: 0.8244 | Running Acc: 98.12%
+  Epoch 4 | Batch 600/1358 | Loss: 0.8652 | Running Acc: 98.06%
+  Epoch 4 | Batch 700/1358 | Loss: 0.7318 | Running Acc: 98.04%
+  Epoch 4 | Batch 800/1358 | Loss: 0.8067 | Running Acc: 98.03%
+  Epoch 4 | Batch 900/1358 | Loss: 0.7734 | Running Acc: 98.07%
+  Epoch 4 | Batch 1000/1358 | Loss: 0.7477 | Running Acc: 98.08%
+  Epoch 4 | Batch 1100/1358 | Loss: 0.8150 | Running Acc: 98.11%
+  Epoch 4 | Batch 1200/1358 | Loss: 0.8777 | Running Acc: 98.11%
+  Epoch 4 | Batch 1300/1358 | Loss: 0.8255 | Running Acc: 98.07%
+
+Epoch 4/20
+  Train Loss: 0.7915 | Train Acc: 98.06%
+  Val Loss:   0.7593 | Val Acc:   98.27%
+  LR: 0.000946
+  Checkpoint saved (epoch 4)
+  ✓ Best model saved! Val Acc: 98.27%
+------------------------------------------------------------
+  Epoch 5 | Batch 100/1358 | Loss: 0.7423 | Running Acc: 98.59%
+  Epoch 5 | Batch 200/1358 | Loss: 0.7825 | Running Acc: 98.36%
+  Epoch 5 | Batch 300/1358 | Loss: 0.7687 | Running Acc: 98.41%
+  Epoch 5 | Batch 400/1358 | Loss: 0.9525 | Running Acc: 98.38%
+  Epoch 5 | Batch 500/1358 | Loss: 0.7729 | Running Acc: 98.26%
+  Epoch 5 | Batch 600/1358 | Loss: 0.8157 | Running Acc: 98.23%
+  Epoch 5 | Batch 700/1358 | Loss: 0.7537 | Running Acc: 98.24%
+  Epoch 5 | Batch 800/1358 | Loss: 0.7596 | Running Acc: 98.20%
+  Epoch 5 | Batch 900/1358 | Loss: 0.7560 | Running Acc: 98.21%
+  Epoch 5 | Batch 1000/1358 | Loss: 0.8775 | Running Acc: 98.19%
+  Epoch 5 | Batch 1100/1358 | Loss: 0.7806 | Running Acc: 98.21%
+  Epoch 5 | Batch 1200/1358 | Loss: 0.7616 | Running Acc: 98.21%
+  Epoch 5 | Batch 1300/1358 | Loss: 0.7580 | Running Acc: 98.19%
+
+Epoch 5/20
+  Train Loss: 0.7828 | Train Acc: 98.20%
+  Val Loss:   0.7535 | Val Acc:   98.43%
+  LR: 0.000905
+  Checkpoint saved (epoch 5)
+  ✓ Best model saved! Val Acc: 98.43%
+------------------------------------------------------------
+  Epoch 6 | Batch 100/1358 | Loss: 0.8007 | Running Acc: 98.72%
+  Epoch 6 | Batch 200/1358 | Loss: 0.7330 | Running Acc: 98.66%
+  Epoch 6 | Batch 300/1358 | Loss: 0.7582 | Running Acc: 98.65%
+  Epoch 6 | Batch 400/1358 | Loss: 0.7235 | Running Acc: 98.66%
+  Epoch 6 | Batch 500/1358 | Loss: 0.8061 | Running Acc: 98.66%
+  Epoch 6 | Batch 600/1358 | Loss: 0.7276 | Running Acc: 98.67%
+  Epoch 6 | Batch 700/1358 | Loss: 0.7123 | Running Acc: 98.67%
+  Epoch 6 | Batch 800/1358 | Loss: 0.7268 | Running Acc: 98.67%
+  Epoch 6 | Batch 900/1358 | Loss: 0.7486 | Running Acc: 98.66%
+  Epoch 6 | Batch 1000/1358 | Loss: 0.7904 | Running Acc: 98.67%
+  Epoch 6 | Batch 1100/1358 | Loss: 0.7674 | Running Acc: 98.68%
+  Epoch 6 | Batch 1200/1358 | Loss: 0.7580 | Running Acc: 98.69%
+  Epoch 6 | Batch 1300/1358 | Loss: 0.7325 | Running Acc: 98.69%
+
+Epoch 6/20
+  Train Loss: 0.7674 | Train Acc: 98.67%
+  Val Loss:   0.7483 | Val Acc:   98.40%
+  LR: 0.000854
+  Checkpoint saved (epoch 6)
+------------------------------------------------------------
+  Epoch 7 | Batch 100/1358 | Loss: 0.7386 | Running Acc: 98.78%
+  Epoch 7 | Batch 200/1358 | Loss: 0.7346 | Running Acc: 98.88%
+  Epoch 7 | Batch 300/1358 | Loss: 0.7809 | Running Acc: 98.93%
+  Epoch 7 | Batch 400/1358 | Loss: 0.7965 | Running Acc: 98.96%
+  Epoch 7 | Batch 500/1358 | Loss: 0.7719 | Running Acc: 98.94%
+  Epoch 7 | Batch 600/1358 | Loss: 0.7380 | Running Acc: 98.98%
+  Epoch 7 | Batch 700/1358 | Loss: 0.7267 | Running Acc: 99.02%
+  Epoch 7 | Batch 800/1358 | Loss: 0.7532 | Running Acc: 98.98%
+  Epoch 7 | Batch 900/1358 | Loss: 0.7058 | Running Acc: 99.00%
+  Epoch 7 | Batch 1000/1358 | Loss: 0.7857 | Running Acc: 98.99%
+  Epoch 7 | Batch 1100/1358 | Loss: 0.8238 | Running Acc: 98.99%
+  Epoch 7 | Batch 1200/1358 | Loss: 0.7427 | Running Acc: 98.99%
+  Epoch 7 | Batch 1300/1358 | Loss: 0.7775 | Running Acc: 98.95%
+
+Epoch 7/20
+  Train Loss: 0.7578 | Train Acc: 98.95%
+  Val Loss:   0.7429 | Val Acc:   98.45%
+  LR: 0.000794
+  Checkpoint saved (epoch 7)
+  ✓ Best model saved! Val Acc: 98.45%
+------------------------------------------------------------
+  Epoch 8 | Batch 100/1358 | Loss: 0.7314 | Running Acc: 99.12%
+  Epoch 8 | Batch 200/1358 | Loss: 0.7694 | Running Acc: 99.03%
+  Epoch 8 | Batch 300/1358 | Loss: 0.7478 | Running Acc: 99.09%
+  Epoch 8 | Batch 400/1358 | Loss: 0.7543 | Running Acc: 99.14%
+  Epoch 8 | Batch 500/1358 | Loss: 0.7588 | Running Acc: 99.11%
+  Epoch 8 | Batch 600/1358 | Loss: 0.7195 | Running Acc: 99.10%
+  Epoch 8 | Batch 700/1358 | Loss: 0.7501 | Running Acc: 99.07%
+  Epoch 8 | Batch 800/1358 | Loss: 0.8247 | Running Acc: 99.05%
+  Epoch 8 | Batch 900/1358 | Loss: 0.7309 | Running Acc: 99.07%
+  Epoch 8 | Batch 1000/1358 | Loss: 0.7183 | Running Acc: 99.05%
+  Epoch 8 | Batch 1100/1358 | Loss: 0.7328 | Running Acc: 99.06%
+  Epoch 8 | Batch 1200/1358 | Loss: 0.7269 | Running Acc: 99.08%
+  Epoch 8 | Batch 1300/1358 | Loss: 0.8140 | Running Acc: 99.06%
+
+Epoch 8/20
+  Train Loss: 0.7492 | Train Acc: 99.06%
+  Val Loss:   0.7367 | Val Acc:   98.60%
+  LR: 0.000727
+  Checkpoint saved (epoch 8)
+  ✓ Best model saved! Val Acc: 98.60%
+------------------------------------------------------------
+  Epoch 9 | Batch 100/1358 | Loss: 0.7348 | Running Acc: 99.19%
+  Epoch 9 | Batch 200/1358 | Loss: 0.7283 | Running Acc: 99.16%
+  Epoch 9 | Batch 300/1358 | Loss: 0.7081 | Running Acc: 99.17%
+  Epoch 9 | Batch 400/1358 | Loss: 0.7266 | Running Acc: 99.20%
+  Epoch 9 | Batch 500/1358 | Loss: 0.7058 | Running Acc: 99.26%
+  Epoch 9 | Batch 600/1358 | Loss: 0.7337 | Running Acc: 99.24%
+  Epoch 9 | Batch 700/1358 | Loss: 0.7276 | Running Acc: 99.27%
+  Epoch 9 | Batch 800/1358 | Loss: 0.7443 | Running Acc: 99.27%
+  Epoch 9 | Batch 900/1358 | Loss: 0.7289 | Running Acc: 99.27%
+  Epoch 9 | Batch 1000/1358 | Loss: 0.7591 | Running Acc: 99.27%
+  Epoch 9 | Batch 1100/1358 | Loss: 0.8469 | Running Acc: 99.25%
+  Epoch 9 | Batch 1200/1358 | Loss: 0.7006 | Running Acc: 99.25%
+  Epoch 9 | Batch 1300/1358 | Loss: 0.7379 | Running Acc: 99.25%
+
+Epoch 9/20
+  Train Loss: 0.7416 | Train Acc: 99.25%
+  Val Loss:   0.7321 | Val Acc:   98.36%
+  LR: 0.000655
+  Checkpoint saved (epoch 9)
+------------------------------------------------------------
+  Epoch 10 | Batch 100/1358 | Loss: 0.7414 | Running Acc: 99.47%
+  Epoch 10 | Batch 200/1358 | Loss: 0.8098 | Running Acc: 99.41%
+  Epoch 10 | Batch 300/1358 | Loss: 0.7093 | Running Acc: 99.38%
+  Epoch 10 | Batch 400/1358 | Loss: 0.7180 | Running Acc: 99.41%
+  Epoch 10 | Batch 500/1358 | Loss: 0.7369 | Running Acc: 99.38%
+  Epoch 10 | Batch 600/1358 | Loss: 0.7288 | Running Acc: 99.38%
+  Epoch 10 | Batch 700/1358 | Loss: 0.7295 | Running Acc: 99.38%
+  Epoch 10 | Batch 800/1358 | Loss: 0.7826 | Running Acc: 99.33%
+  Epoch 10 | Batch 900/1358 | Loss: 0.7911 | Running Acc: 99.35%
+  Epoch 10 | Batch 1000/1358 | Loss: 0.7039 | Running Acc: 99.36%
+  Epoch 10 | Batch 1100/1358 | Loss: 0.7169 | Running Acc: 99.37%
+  Epoch 10 | Batch 1200/1358 | Loss: 0.7311 | Running Acc: 99.37%
+  Epoch 10 | Batch 1300/1358 | Loss: 0.7709 | Running Acc: 99.36%
+
+Epoch 10/20
+  Train Loss: 0.7353 | Train Acc: 99.36%
+  Val Loss:   0.7286 | Val Acc:   98.58%
+  LR: 0.000578
+  Checkpoint saved (epoch 10)
+------------------------------------------------------------
+  Epoch 11 | Batch 100/1358 | Loss: 0.7353 | Running Acc: 99.59%
+  Epoch 11 | Batch 200/1358 | Loss: 0.7167 | Running Acc: 99.61%
+  Epoch 11 | Batch 300/1358 | Loss: 0.7396 | Running Acc: 99.57%
+  Epoch 11 | Batch 400/1358 | Loss: 0.7143 | Running Acc: 99.57%
+  Epoch 11 | Batch 500/1358 | Loss: 0.7577 | Running Acc: 99.58%
+  Epoch 11 | Batch 600/1358 | Loss: 0.7115 | Running Acc: 99.58%
+  Epoch 11 | Batch 700/1358 | Loss: 0.7374 | Running Acc: 99.59%
+  Epoch 11 | Batch 800/1358 | Loss: 0.7368 | Running Acc: 99.57%
+  Epoch 11 | Batch 900/1358 | Loss: 0.7562 | Running Acc: 99.53%
+  Epoch 11 | Batch 1000/1358 | Loss: 0.7329 | Running Acc: 99.53%
+  Epoch 11 | Batch 1100/1358 | Loss: 0.7214 | Running Acc: 99.50%
+  Epoch 11 | Batch 1200/1358 | Loss: 0.7213 | Running Acc: 99.49%
+  Epoch 11 | Batch 1300/1358 | Loss: 0.7269 | Running Acc: 99.47%
+
+Epoch 11/20
+  Train Loss: 0.7303 | Train Acc: 99.45%
+  Val Loss:   0.7223 | Val Acc:   98.82%
+  LR: 0.000500
+  Checkpoint saved (epoch 11)
+  ✓ Best model saved! Val Acc: 98.82%
+------------------------------------------------------------
+  Epoch 12 | Batch 100/1358 | Loss: 0.7092 | Running Acc: 99.50%
+  Epoch 12 | Batch 200/1358 | Loss: 0.7226 | Running Acc: 99.44%
+  Epoch 12 | Batch 300/1358 | Loss: 0.7148 | Running Acc: 99.44%
+  Epoch 12 | Batch 400/1358 | Loss: 0.7077 | Running Acc: 99.45%
+  Epoch 12 | Batch 500/1358 | Loss: 0.7512 | Running Acc: 99.41%
+  Epoch 12 | Batch 600/1358 | Loss: 0.7085 | Running Acc: 99.42%
+  Epoch 12 | Batch 700/1358 | Loss: 0.7005 | Running Acc: 99.46%
+  Epoch 12 | Batch 800/1358 | Loss: 0.7839 | Running Acc: 99.50%
+  Epoch 12 | Batch 900/1358 | Loss: 0.6974 | Running Acc: 99.52%
+  Epoch 12 | Batch 1000/1358 | Loss: 0.7040 | Running Acc: 99.52%
+  Epoch 12 | Batch 1100/1358 | Loss: 0.7059 | Running Acc: 99.51%
+  Epoch 12 | Batch 1200/1358 | Loss: 0.7090 | Running Acc: 99.52%
+  Epoch 12 | Batch 1300/1358 | Loss: 0.7043 | Running Acc: 99.50%
+
+Epoch 12/20
+  Train Loss: 0.7251 | Train Acc: 99.49%
+  Val Loss:   0.7149 | Val Acc:   99.01%
+  LR: 0.000422
+  Checkpoint saved (epoch 12)
+  ✓ Best model saved! Val Acc: 99.01%
+------------------------------------------------------------
+  Epoch 13 | Batch 100/1358 | Loss: 0.7409 | Running Acc: 99.47%
+  Epoch 13 | Batch 200/1358 | Loss: 0.7179 | Running Acc: 99.58%
+  Epoch 13 | Batch 300/1358 | Loss: 0.7621 | Running Acc: 99.60%
+  Epoch 13 | Batch 400/1358 | Loss: 0.7138 | Running Acc: 99.56%
+  Epoch 13 | Batch 500/1358 | Loss: 0.7149 | Running Acc: 99.62%
+  Epoch 13 | Batch 600/1358 | Loss: 0.7234 | Running Acc: 99.60%
+  Epoch 13 | Batch 700/1358 | Loss: 0.7116 | Running Acc: 99.58%
+  Epoch 13 | Batch 800/1358 | Loss: 0.7427 | Running Acc: 99.59%
+  Epoch 13 | Batch 900/1358 | Loss: 0.7141 | Running Acc: 99.60%
+  Epoch 13 | Batch 1000/1358 | Loss: 0.7144 | Running Acc: 99.58%
+  Epoch 13 | Batch 1100/1358 | Loss: 0.6978 | Running Acc: 99.59%
+  Epoch 13 | Batch 1200/1358 | Loss: 0.7166 | Running Acc: 99.61%
+  Epoch 13 | Batch 1300/1358 | Loss: 0.7183 | Running Acc: 99.61%
+
+Epoch 13/20
+  Train Loss: 0.7198 | Train Acc: 99.61%
+  Val Loss:   0.7139 | Val Acc:   98.97%
+  LR: 0.000345
+  Checkpoint saved (epoch 13)
+------------------------------------------------------------
+  Epoch 14 | Batch 100/1358 | Loss: 0.6952 | Running Acc: 99.59%
+  Epoch 14 | Batch 200/1358 | Loss: 0.7200 | Running Acc: 99.67%
+  Epoch 14 | Batch 300/1358 | Loss: 0.7193 | Running Acc: 99.71%
+  Epoch 14 | Batch 400/1358 | Loss: 0.7081 | Running Acc: 99.70%
+  Epoch 14 | Batch 500/1358 | Loss: 0.7040 | Running Acc: 99.66%
+  Epoch 14 | Batch 600/1358 | Loss: 0.7412 | Running Acc: 99.65%
+  Epoch 14 | Batch 700/1358 | Loss: 0.7084 | Running Acc: 99.66%
+  Epoch 14 | Batch 800/1358 | Loss: 0.7366 | Running Acc: 99.67%
+  Epoch 14 | Batch 900/1358 | Loss: 0.7496 | Running Acc: 99.66%
+  Epoch 14 | Batch 1000/1358 | Loss: 0.7438 | Running Acc: 99.67%
+  Epoch 14 | Batch 1100/1358 | Loss: 0.7194 | Running Acc: 99.67%
+  Epoch 14 | Batch 1200/1358 | Loss: 0.7035 | Running Acc: 99.67%
+  Epoch 14 | Batch 1300/1358 | Loss: 0.7018 | Running Acc: 99.67%
+
+Epoch 14/20
+  Train Loss: 0.7174 | Train Acc: 99.67%
+  Val Loss:   0.7124 | Val Acc:   99.02%
+  LR: 0.000273
+  Checkpoint saved (epoch 14)
+  ✓ Best model saved! Val Acc: 99.02%
+------------------------------------------------------------
+  Epoch 15 | Batch 100/1358 | Loss: 0.7015 | Running Acc: 99.88%
+  Epoch 15 | Batch 200/1358 | Loss: 0.7767 | Running Acc: 99.78%
+  Epoch 15 | Batch 300/1358 | Loss: 0.7226 | Running Acc: 99.73%
+  Epoch 15 | Batch 400/1358 | Loss: 0.7059 | Running Acc: 99.74%
+  Epoch 15 | Batch 500/1358 | Loss: 0.7029 | Running Acc: 99.72%
+  Epoch 15 | Batch 600/1358 | Loss: 0.7853 | Running Acc: 99.72%
+  Epoch 15 | Batch 700/1358 | Loss: 0.7150 | Running Acc: 99.72%
+  Epoch 15 | Batch 800/1358 | Loss: 0.7050 | Running Acc: 99.71%
+  Epoch 15 | Batch 900/1358 | Loss: 0.7025 | Running Acc: 99.70%
+  Epoch 15 | Batch 1000/1358 | Loss: 0.7158 | Running Acc: 99.71%
+  Epoch 15 | Batch 1100/1358 | Loss: 0.7583 | Running Acc: 99.70%
+  Epoch 15 | Batch 1200/1358 | Loss: 0.6986 | Running Acc: 99.69%
+  Epoch 15 | Batch 1300/1358 | Loss: 0.7124 | Running Acc: 99.70%
+
+Epoch 15/20
+  Train Loss: 0.7145 | Train Acc: 99.69%
+  Val Loss:   0.7102 | Val Acc:   99.12%
+  LR: 0.000206
+  Checkpoint saved (epoch 15)
+  ✓ Best model saved! Val Acc: 99.12%
+------------------------------------------------------------
+  Epoch 16 | Batch 100/1358 | Loss: 0.7116 | Running Acc: 99.72%
+  Epoch 16 | Batch 200/1358 | Loss: 0.7048 | Running Acc: 99.77%
+  Epoch 16 | Batch 300/1358 | Loss: 0.7238 | Running Acc: 99.78%
+  Epoch 16 | Batch 400/1358 | Loss: 0.7185 | Running Acc: 99.79%
+  Epoch 16 | Batch 500/1358 | Loss: 0.7157 | Running Acc: 99.79%
+  Epoch 16 | Batch 600/1358 | Loss: 0.7017 | Running Acc: 99.77%
+  Epoch 16 | Batch 700/1358 | Loss: 0.6994 | Running Acc: 99.77%
+  Epoch 16 | Batch 800/1358 | Loss: 0.7371 | Running Acc: 99.79%
+  Epoch 16 | Batch 900/1358 | Loss: 0.7261 | Running Acc: 99.79%
+  Epoch 16 | Batch 1000/1358 | Loss: 0.7199 | Running Acc: 99.79%
+  Epoch 16 | Batch 1100/1358 | Loss: 0.7105 | Running Acc: 99.79%
+  Epoch 16 | Batch 1200/1358 | Loss: 0.7077 | Running Acc: 99.79%
+  Epoch 16 | Batch 1300/1358 | Loss: 0.7121 | Running Acc: 99.79%
+
+Epoch 16/20
+  Train Loss: 0.7113 | Train Acc: 99.80%
+  Val Loss:   0.7074 | Val Acc:   99.08%
+  LR: 0.000146
+  Checkpoint saved (epoch 16)
+------------------------------------------------------------
+  Epoch 17 | Batch 100/1358 | Loss: 0.7024 | Running Acc: 99.75%
+  Epoch 17 | Batch 200/1358 | Loss: 0.7209 | Running Acc: 99.75%
+  Epoch 17 | Batch 300/1358 | Loss: 0.7057 | Running Acc: 99.78%
+  Epoch 17 | Batch 400/1358 | Loss: 0.7062 | Running Acc: 99.77%
+  Epoch 17 | Batch 500/1358 | Loss: 0.7121 | Running Acc: 99.78%
+  Epoch 17 | Batch 600/1358 | Loss: 0.7024 | Running Acc: 99.79%
+  Epoch 17 | Batch 700/1358 | Loss: 0.7007 | Running Acc: 99.78%
+  Epoch 17 | Batch 800/1358 | Loss: 0.7006 | Running Acc: 99.79%
+  Epoch 17 | Batch 900/1358 | Loss: 0.7307 | Running Acc: 99.79%
+  Epoch 17 | Batch 1000/1358 | Loss: 0.7437 | Running Acc: 99.80%
+  Epoch 17 | Batch 1100/1358 | Loss: 0.6907 | Running Acc: 99.80%
+  Epoch 17 | Batch 1200/1358 | Loss: 0.7286 | Running Acc: 99.80%
+  Epoch 17 | Batch 1300/1358 | Loss: 0.7066 | Running Acc: 99.79%
+
+Epoch 17/20
+  Train Loss: 0.7095 | Train Acc: 99.80%
+  Val Loss:   0.7067 | Val Acc:   98.95%
+  LR: 0.000095
+  Checkpoint saved (epoch 17)
+------------------------------------------------------------
+  Epoch 18 | Batch 100/1358 | Loss: 0.7027 | Running Acc: 99.88%
+  Epoch 18 | Batch 200/1358 | Loss: 0.7269 | Running Acc: 99.80%
+  Epoch 18 | Batch 300/1358 | Loss: 0.7289 | Running Acc: 99.81%
+  Epoch 18 | Batch 400/1358 | Loss: 0.6919 | Running Acc: 99.80%
+  Epoch 18 | Batch 500/1358 | Loss: 0.6920 | Running Acc: 99.81%
+  Epoch 18 | Batch 600/1358 | Loss: 0.7148 | Running Acc: 99.79%
+  Epoch 18 | Batch 700/1358 | Loss: 0.7115 | Running Acc: 99.80%
+  Epoch 18 | Batch 800/1358 | Loss: 0.7218 | Running Acc: 99.79%
+  Epoch 18 | Batch 900/1358 | Loss: 0.7106 | Running Acc: 99.79%
+  Epoch 18 | Batch 1000/1358 | Loss: 0.6962 | Running Acc: 99.79%
+  Epoch 18 | Batch 1100/1358 | Loss: 0.7067 | Running Acc: 99.77%
+  Epoch 18 | Batch 1200/1358 | Loss: 0.7053 | Running Acc: 99.77%
+  Epoch 18 | Batch 1300/1358 | Loss: 0.7152 | Running Acc: 99.78%
+
+Epoch 18/20
+  Train Loss: 0.7088 | Train Acc: 99.78%
+  Val Loss:   0.7080 | Val Acc:   99.04%
+  LR: 0.000054
+  Checkpoint saved (epoch 18)
+------------------------------------------------------------
+  Epoch 19 | Batch 100/1358 | Loss: 0.7006 | Running Acc: 99.84%
+  Epoch 19 | Batch 200/1358 | Loss: 0.7118 | Running Acc: 99.83%
+  Epoch 19 | Batch 300/1358 | Loss: 0.7057 | Running Acc: 99.85%
+  Epoch 19 | Batch 400/1358 | Loss: 0.7044 | Running Acc: 99.86%
+  Epoch 19 | Batch 500/1358 | Loss: 0.6981 | Running Acc: 99.84%
+  Epoch 19 | Batch 600/1358 | Loss: 0.7080 | Running Acc: 99.85%
+  Epoch 19 | Batch 700/1358 | Loss: 0.7213 | Running Acc: 99.86%
+  Epoch 19 | Batch 800/1358 | Loss: 0.7037 | Running Acc: 99.86%
+  Epoch 19 | Batch 900/1358 | Loss: 0.6981 | Running Acc: 99.86%
+  Epoch 19 | Batch 1000/1358 | Loss: 0.7094 | Running Acc: 99.86%
+  Epoch 19 | Batch 1100/1358 | Loss: 0.7055 | Running Acc: 99.86%
+  Epoch 19 | Batch 1200/1358 | Loss: 0.7112 | Running Acc: 99.84%
+  Epoch 19 | Batch 1300/1358 | Loss: 0.7135 | Running Acc: 99.83%
+
+Epoch 19/20
+  Train Loss: 0.7067 | Train Acc: 99.84%
+  Val Loss:   0.7077 | Val Acc:   99.06%
+  LR: 0.000024
+  Checkpoint saved (epoch 19)
+------------------------------------------------------------
+  Epoch 20 | Batch 100/1358 | Loss: 0.7125 | Running Acc: 99.62%
+  Epoch 20 | Batch 200/1358 | Loss: 0.7183 | Running Acc: 99.70%
+  Epoch 20 | Batch 300/1358 | Loss: 0.7065 | Running Acc: 99.71%
+  Epoch 20 | Batch 400/1358 | Loss: 0.7123 | Running Acc: 99.73%
+  Epoch 20 | Batch 500/1358 | Loss: 0.7254 | Running Acc: 99.76%
+  Epoch 20 | Batch 600/1358 | Loss: 0.7035 | Running Acc: 99.77%
+  Epoch 20 | Batch 700/1358 | Loss: 0.7096 | Running Acc: 99.76%
+  Epoch 20 | Batch 800/1358 | Loss: 0.6869 | Running Acc: 99.77%
+  Epoch 20 | Batch 900/1358 | Loss: 0.6938 | Running Acc: 99.77%
+  Epoch 20 | Batch 1000/1358 | Loss: 0.7272 | Running Acc: 99.77%
+  Epoch 20 | Batch 1100/1358 | Loss: 0.7040 | Running Acc: 99.78%
+  Epoch 20 | Batch 1200/1358 | Loss: 0.7075 | Running Acc: 99.79%
+  Epoch 20 | Batch 1300/1358 | Loss: 0.7546 | Running Acc: 99.79%
+
+Epoch 20/20
+  Train Loss: 0.7074 | Train Acc: 99.79%
+  Val Loss:   0.7051 | Val Acc:   99.08%
+  LR: 0.000006
+  Checkpoint saved (epoch 20)
+------------------------------------------------------------

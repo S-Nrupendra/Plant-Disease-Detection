@@ -1,0 +1,84 @@
+_wandb:
+    value:
+        cli_version: 0.25.1
+        e:
+            reacgo9mh5kdpm66g2hqtlsztgpqd41w:
+                args:
+                    - -f
+                    - /tmp/tmp7m0wj1u6.json
+                    - '--HistoryManager.hist_file=:memory:'
+                cpu_count: 2
+                cpu_count_logical: 4
+                cudaVersion: "13.0"
+                disk:
+                    /:
+                        total: "8656922775552"
+                        used: "7473552621568"
+                email: snrupendra@gmail.com
+                executable: /usr/bin/python3
+                gpu: Tesla T4
+                gpu_count: 2
+                gpu_nvidia:
+                    - architecture: Turing
+                      cudaCores: 2560
+                      memoryTotal: "16106127360"
+                      name: Tesla T4
+                      uuid: GPU-010531c4-ac95-581d-5d08-30efdd3de71c
+                    - architecture: Turing
+                      cudaCores: 2560
+                      memoryTotal: "16106127360"
+                      name: Tesla T4
+                      uuid: GPU-2e730ff4-5b74-e9de-9221-36e152162270
+                host: d6dbe1c06de5
+                memory:
+                    total: "33659383808"
+                os: Linux-6.12.90+-x86_64-with-glibc2.35
+                program: <python with no main file>
+                python: CPython 3.12.13
+                root: /kaggle/working
+                startedAt: "2026-06-24T04:42:17.925711Z"
+                writerId: reacgo9mh5kdpm66g2hqtlsztgpqd41w
+        m: []
+        python_version: 3.12.13
+        t:
+            "1":
+                - 1
+                - 41
+                - 105
+            "2":
+                - 1
+                - 41
+                - 105
+            "3":
+                - 2
+                - 13
+                - 16
+            "4": 3.12.13
+            "5": 0.25.1
+            "8":
+                - 2
+                - 13
+            "12": 0.25.1
+            "13": linux-x86_64
+architecture:
+    value: EfficientNet-B3
+batch_size:
+    value: 32
+dataset:
+    value: PlantVillage
+epochs:
+    value: 20
+gradient_clip:
+    value: 1
+label_smoothing:
+    value: 0.1
+learning_rate:
+    value: 0.001
+num_classes:
+    value: 38
+optimizer:
+    value: AdamW
+scheduler:
+    value: CosineAnnealingLR
+weight_decay:
+    value: 0.0001
